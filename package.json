@@ -1,6 +1,6 @@
 {
   "name": "bad-templates",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A bad HTML templating system. Because why not.",
   "main": "index.js",
   "engines": {
