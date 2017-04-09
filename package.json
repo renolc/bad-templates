@@ -1,0 +1,26 @@
+{
+  "name": "bad-templates",
+  "version": "1.0.0",
+  "description": "A bad HTML templating system. Because why not.",
+  "main": "index.js",
+  "engines": {
+    "node": ">= 4.8.2"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "bad",
+    "html",
+    "template"
+  ],
+  "author": "Phillip Gibson <gibson.phillip.j@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renolc/bad-templates.git"
+  },
+  "bugs": {
+    "url": "https://github.com/renolc/bad-templates/issues"
+  },
+}
