@@ -1,4 +1,4 @@
-# bad-templates [![npm version](https://badge.fury.io/js/chalk-blog.svg)](https://badge.fury.io/js/bad-templates)
+# bad-templates [![npm version](https://badge.fury.io/js/bad-templates.svg)](https://badge.fury.io/js/bad-templates)
 
 A not-very-good HTML templating system. Not versatile, probably has lots of bugs, critical features missing, pollutes the global namespace -- just terrible stuff. But it kind of works.
 
